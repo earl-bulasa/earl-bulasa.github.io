@@ -597,7 +597,7 @@ Copyright 2015
             if(contact_view == 0 ){
                 contact_view = 1;
                 $.ajax({
-                    url: "/wp-json/api/v1/form",
+                    url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/form",
                     type: "post",
                     dataType: "json",
                     data: "form=1",
@@ -615,7 +615,7 @@ Copyright 2015
             if(video_form_view== 0 ){
                 video_form_view= 1;
                 $.ajax({
-                    url: "/wp-json/api/v1/form",
+                    url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/form",
                     type: "post",
                     dataType: "json",
                     data: "form=3",
@@ -633,7 +633,7 @@ Copyright 2015
             if(new_patient_view == 0 ){
                 new_patient_view= 1;
                 $.ajax({
-                    url: "/wp-json/api/v1/form",
+                    url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/form",
                     type: "post",
                     dataType: "json",
                     data: "form=3",
@@ -650,7 +650,7 @@ Copyright 2015
             if(sidebar_view== 0 ){
                 sidebar_view= 1;
                 $.ajax({
-                    url: "/wp-json/api/v1/form",
+                    url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/form",
                     type: "post",
                     dataType: "json",
                     data: "form=5",
@@ -668,7 +668,7 @@ Copyright 2015
             if(inline_view== 0 ){
                 inline_view= 1;
                 $.ajax({
-                    url: "/wp-json/api/v1/form",
+                    url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/form",
                     type: "post",
                     dataType: "json",
                     data: "form=2",
@@ -705,7 +705,7 @@ Copyright 2015
                               } 
                         });
                        $.ajax({
-                               url: "/wp-json/api/v3/message",
+                               url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/message",
                                type: "post",
                                dataType: "json",
                                data: {
@@ -749,7 +749,7 @@ Copyright 2015
                               }
                         });
                        $.ajax({
-                               url: "/wp-json/api/v3/appointment",
+                               url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/appointment",
                                type: "post",
                                dataType: "json",
                                data: {
@@ -792,7 +792,7 @@ Copyright 2015
                               }
                         });
                        $.ajax({
-                               url: "/wp-json/api/v3/appointment",
+                               url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/appointment",
                                type: "post",
                                dataType: "json",
                                data: {
@@ -838,7 +838,7 @@ Copyright 2015
                               } 
                         });
                        $.ajax({
-                               url: "/wp-json/api/v3/message",
+                               url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/message",
                                type: "post",
                                dataType: "json",
                                data: {
@@ -867,7 +867,7 @@ Copyright 2015
                     formdata = formdata  + '&url=' + window.location.href + '&container=' +  $('#'+$(event.target.lastChild).prop('id')).parent().attr('id') + 
                                                             '&protocol=' + window.location.protocol + '&hostname=' + window.location.hostname;        
                     $.ajax({
-                           url: "/wp-json/api/v3/message",
+                           url: "https://dd.dfclinic.wpengine.com/wp-json/api/v3/message",
                            type: "post",
                            dataType: "json",
                            data: formdata,
@@ -885,7 +885,7 @@ Copyright 2015
 		</script><script type="text/javascript">
 			</script><script type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/earl-bulasa.github.io\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/dd.dfclinic.wpengine.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script><script type="text/javascript" src="https://earl-bulasa.github.io/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script><script type="text/javascript">
 /* <![CDATA[ */
