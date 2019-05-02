@@ -1,330 +1,722 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//test-4f808.firebaseapp.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+
+<style type="text/css">
+body #gform_wrapper_1 .gform_footer input[type=submit] {
+    border-style: solid;    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    border-width: 0px;}
+body #gform_wrapper_1 .gform_page_footer input[type=submit], body #gform_wrapper_1 .gform_page_footer input[type=button] {
+    border-style: solid;    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    
+    border-width: 0px;}
+body #gform_wrapper_1 .gform_page_footer input[type=submit]:hover {
+    border-style: solid;    background-color:#2b7de1;       }
+body #gform_wrapper_1 .gform_footer input[type=submit]:hover {
+    border-style: solid;    background-color:#2b7de1;       }
+body #gform_wrapper_1 .gform_footer button.mdc-button {
+    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    border-width: 0px;}
+body #gform_wrapper_1 .gform_footer button.mdc-button:hover {
+    background-color:#2b7de1;     }
+body #gform_wrapper_1 .gform_footer {
+    text-align:right;}
+
+
+body #gform_wrapper_1 .gform_body .gform_fields .gsection{
+            
+     
+    
+    }
+
+
+
+body #gform_wrapper_1 .gform_body .gform_page_footer .gform_next_button {
+    border-style: solid;   background:#ff8400;                    color:#ffffff;            border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_1 .gform_body .gform_page_footer .gform_next_button:hover {
+     
+
+ background:#2b7de1;}
+body #gform_wrapper_1 .gform_body .gform_page_footer .gform_previous_button {
+
+  background:#ff8400;                    color:#ffffff;            border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_1 .gform_body .gform_page_footer .gform_previous_button:hover {
+     background:#2b7de1;}
+body #gform_wrapper_1 .gform_body .gform_page_footer .gform_button {
+
+background:#ff8400;          color:#ffffff;      border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_1 .gform_body .gform_page_footer .gform_button:hover {
+   background:#2b7de1;}
+/* Styling for Tablets */
+@media only screen and (max-width: 800px) and (min-width:481px) {
+    
+
+ 
+
+
+
+}
+/* Styling for phones */
+@media only screen and (max-width: 480px){
+
+
+
+
+ 
+}  
+
+/*Option to add custom CSS */
+        </style>
+
+<style type="text/css">
+body #gform_wrapper_2 .gform_footer input[type=submit] {
+    border-style: solid;    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    border-width: 0px;}
+body #gform_wrapper_2 .gform_page_footer input[type=submit], body #gform_wrapper_2 .gform_page_footer input[type=button] {
+    border-style: solid;    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    
+    border-width: 0px;}
+body #gform_wrapper_2 .gform_page_footer input[type=submit]:hover {
+    border-style: solid;    background-color:#2b7de1;       }
+body #gform_wrapper_2 .gform_footer input[type=submit]:hover {
+    border-style: solid;    background-color:#2b7de1;       }
+body #gform_wrapper_2 .gform_footer button.mdc-button {
+    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    border-width: 0px;}
+body #gform_wrapper_2 .gform_footer button.mdc-button:hover {
+    background-color:#2b7de1;     }
+body #gform_wrapper_2 .gform_footer {
+    text-align:right;}
+
+
+body #gform_wrapper_2 .gform_body .gform_fields .gsection{
+            
+     
+    
+    }
+
+
+
+body #gform_wrapper_2 .gform_body .gform_page_footer .gform_next_button {
+    border-style: solid;   background:#ff8400;                    color:#ffffff;            border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_2 .gform_body .gform_page_footer .gform_next_button:hover {
+     
+
+ background:#2b7de1;}
+body #gform_wrapper_2 .gform_body .gform_page_footer .gform_previous_button {
+
+  background:#ff8400;                    color:#ffffff;            border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_2 .gform_body .gform_page_footer .gform_previous_button:hover {
+     background:#2b7de1;}
+body #gform_wrapper_2 .gform_body .gform_page_footer .gform_button {
+
+background:#ff8400;          color:#ffffff;      border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_2 .gform_body .gform_page_footer .gform_button:hover {
+   background:#2b7de1;}
+/* Styling for Tablets */
+@media only screen and (max-width: 800px) and (min-width:481px) {
+    
+
+ 
+
+
+
+}
+/* Styling for phones */
+@media only screen and (max-width: 480px){
+
+
+
+
+ 
+}  
+
+/*Option to add custom CSS */
+        </style>
+
+<style type="text/css">
+body #gform_wrapper_3 .gform_footer input[type=submit] {
+    border-style: solid;    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    border-width: 0px;}
+body #gform_wrapper_3 .gform_page_footer input[type=submit], body #gform_wrapper_3 .gform_page_footer input[type=button] {
+    border-style: solid;    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    
+    border-width: 0px;}
+body #gform_wrapper_3 .gform_page_footer input[type=submit]:hover {
+    border-style: solid;    background-color:#2b7de1;       }
+body #gform_wrapper_3 .gform_footer input[type=submit]:hover {
+    border-style: solid;    background-color:#2b7de1;       }
+body #gform_wrapper_3 .gform_footer button.mdc-button {
+    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    border-width: 0px;}
+body #gform_wrapper_3 .gform_footer button.mdc-button:hover {
+    background-color:#2b7de1;     }
+body #gform_wrapper_3 .gform_footer {
+    text-align:right;}
+
+
+body #gform_wrapper_3 .gform_body .gform_fields .gsection{
+            
+     
+    
+    }
+
+
+
+body #gform_wrapper_3 .gform_body .gform_page_footer .gform_next_button {
+    border-style: solid;   background:#ff8400;                    color:#ffffff;            border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_3 .gform_body .gform_page_footer .gform_next_button:hover {
+     
+
+ background:#2b7de1;}
+body #gform_wrapper_3 .gform_body .gform_page_footer .gform_previous_button {
+
+  background:#ff8400;                    color:#ffffff;            border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_3 .gform_body .gform_page_footer .gform_previous_button:hover {
+     background:#2b7de1;}
+body #gform_wrapper_3 .gform_body .gform_page_footer .gform_button {
+
+background:#ff8400;          color:#ffffff;      border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_3 .gform_body .gform_page_footer .gform_button:hover {
+   background:#2b7de1;}
+/* Styling for Tablets */
+@media only screen and (max-width: 800px) and (min-width:481px) {
+    
+
+ 
+
+
+
+}
+/* Styling for phones */
+@media only screen and (max-width: 480px){
+
+
+
+
+ 
+}  
+
+/*Option to add custom CSS */
+        </style>
+
+<style type="text/css">
+body #gform_wrapper_4 .gform_footer input[type=submit] {
+    border-style: solid;    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    border-width: 0px;}
+body #gform_wrapper_4 .gform_page_footer input[type=submit], body #gform_wrapper_4 .gform_page_footer input[type=button] {
+    border-style: solid;    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    
+    border-width: 0px;}
+body #gform_wrapper_4 .gform_page_footer input[type=submit]:hover {
+    border-style: solid;    background-color:#2b7de1;       }
+body #gform_wrapper_4 .gform_footer input[type=submit]:hover {
+    border-style: solid;    background-color:#2b7de1;       }
+body #gform_wrapper_4 .gform_footer button.mdc-button {
+    font-weight: bold;color:#ffffff ;background-color:#ff8400 ;border-radius:4px ;-web-border-radius:4px ;-moz-border-radius:4px ;padding-left:30px ;padding-right:30px ;padding-top:12px ;padding-bottom:12px ;    border-width: 0px;}
+body #gform_wrapper_4 .gform_footer button.mdc-button:hover {
+    background-color:#2b7de1;     }
+body #gform_wrapper_4 .gform_footer {
+    text-align:right;}
+
+
+body #gform_wrapper_4 .gform_body .gform_fields .gsection{
+            
+     
+    
+    }
+
+
+
+body #gform_wrapper_4 .gform_body .gform_page_footer .gform_next_button {
+    border-style: solid;   background:#ff8400;                    color:#ffffff;            border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_4 .gform_body .gform_page_footer .gform_next_button:hover {
+     
+
+ background:#2b7de1;}
+body #gform_wrapper_4 .gform_body .gform_page_footer .gform_previous_button {
+
+  background:#ff8400;                    color:#ffffff;            border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_4 .gform_body .gform_page_footer .gform_previous_button:hover {
+     background:#2b7de1;}
+body #gform_wrapper_4 .gform_body .gform_page_footer .gform_button {
+
+background:#ff8400;          color:#ffffff;      border-radius:4px;-web-border-radius:4px;-moz-border-radius:4px;}
+body #gform_wrapper_4 .gform_body .gform_page_footer .gform_button:hover {
+   background:#2b7de1;}
+/* Styling for Tablets */
+@media only screen and (max-width: 800px) and (min-width:481px) {
+    
+
+ 
+
+
+
+}
+/* Styling for phones */
+@media only screen and (max-width: 480px){
+
+
+
+
+ 
+}  
+
+/*Option to add custom CSS */
+        </style>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//earl-bulasa.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://earl-bulasa.github.io/</loc>
-		<lastmod>2019-03-19T16:05:38+00:00</lastmod>
+		<lastmod>2019-05-01T20:41:35+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/Instagram.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/slider_img_01.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Shergin.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/team-320x189.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Jennifer.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Jonathan.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/our-team-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Kliman.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/img2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/periodontal-therapy-352x269.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dental_services_02.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dental_services_03.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/terms-of-use/</loc>
-		<lastmod>2018-04-04T19:40:03+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/sample-page/</loc>
+		<lastmod>2019-02-26T14:17:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/before-and-after-gallery-page/</loc>
+		<lastmod>2019-03-21T14:35:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Ryan-Sciaraffa-1024x463-248x95.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Robert-1024x463-248x95.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Jeff-Hui-1024x463-248x95.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Brenda-Tavares-1024x463-248x95.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Bill-Tang-1024x463-248x95.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/BEFORE-AND-AFTER-layout-08-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Raymond-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-01-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-02-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-03-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-04-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layoutt-05-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-09-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Ayesha-1024x366-248x95.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-11-1-1024x466-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/02020-1-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-06-1-1024x466-2-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/02-1024x466-1-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/BEFORE-AND-AFTER-layout-1024x466-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-13-1-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-15-1-1024x466-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-16-1-1024x466-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/BEFORE-AND-AFTER-layout-088-1024x466-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Webpage-Design-BEFORE-AND-AFTER-layout-07-1-1024x466-1024x466-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/jennifer-01-248x95.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/01-1024x466-1024x466-248x95.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/invisalign/</loc>
+		<lastmod>2019-03-22T03:32:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/clinic-gallery/</loc>
+		<lastmod>2019-03-24T10:05:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/IMG_2532_editted-1024x683-150x150.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/IMG_2524_editted-1024x683-150x150.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/IMG_2513_eidtted-1024x683-150x150.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/IMG_0488-1024x683-150x150.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/IMG_0482-1024x683-150x150.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/orthodontics/invisalign/</loc>
+		<lastmod>2019-03-24T10:25:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://earl-bulasa.github.io/privacy-policy/</loc>
-		<lastmod>2018-04-04T19:40:04+00:00</lastmod>
+		<lastmod>2019-03-24T10:33:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/team/</loc>
-		<lastmod>2018-04-30T07:48:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Shergin.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Jennifer.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Jonathan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Kliman.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/PAIGENEW2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Christina.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Isra.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Vivian.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/DJNEW.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/ALDONANEW.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Kateri.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/PlaceholderStn.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/PlaceholderStn.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Ania.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Elham.jpg</image:loc>
-		</image:image>
+		<loc>https://earl-bulasa.github.io/propel-vpro5-accelerated-orthodontic/</loc>
+		<lastmod>2019-03-24T10:34:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/our-dentists/</loc>
-		<lastmod>2018-05-03T18:09:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Shergin.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Jennifer.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Kliman.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Jonathan.jpg</image:loc>
-		</image:image>
+		<loc>https://earl-bulasa.github.io/terms-of-use/</loc>
+		<lastmod>2019-03-24T10:35:39+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://earl-bulasa.github.io/blog/</loc>
-		<lastmod>2018-07-05T21:41:34+00:00</lastmod>
+		<lastmod>2019-03-26T11:29:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-crown-1080x600.jpg</image:loc>
+			<image:caption><![CDATA[5 Helpful Facts About Dental Crown You Need To Know]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/laser-1080x600.jpg</image:loc>
+			<image:caption><![CDATA[7 Benefits Of Laser Dentistry That Will Immensely Transform Your Life]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/veneers-1080x600.jpg</image:loc>
+			<image:caption><![CDATA[5 Things You Need To Know Before Having Veneers]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/3-Benefits-of-Ceramic-Braces-You-Need-To-Know-1080x600.jpg</image:loc>
+			<image:caption><![CDATA[Top 3 Reasons Why Ceramic Braces Are The Best Orthodontic Option]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/How-Can-A-Tooth-Extraction-Help-You-On-Your-Next-Date-2-1-1080x600.jpg</image:loc>
+			<image:caption><![CDATA[Why Should You Have A Tooth Extraction Before Your Next Date]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Dental-Implants-A-Good-Investment-In-The-Long-Run-1-1080x600.jpg</image:loc>
+			<image:caption><![CDATA[Dental Implants Are You Investing In The Right Treatment]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign8.jpg</image:loc>
+			<image:caption><![CDATA[8 Things You Should Know About Invisalign]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-cleaning-1080x675.jpg</image:loc>
+			<image:caption><![CDATA[Regular Dental Cleaning Do You Really Need It]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Dental-Implants-Reviews-Help-Patients-To-Have-Teeth-Restored-1080x600.jpg</image:loc>
+			<image:caption><![CDATA[Dental Implants Reviews Helping Patients To Have Tooth Restoration]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-Natural-Bad-Breath-Remedy-Options-To-End-Halitosis-1080x600.jpg</image:loc>
+			<image:caption><![CDATA[The Best Natural Bad Breath Remedy That Works For You]]></image:caption>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://earl-bulasa.github.io/gallery/</loc>
-		<lastmod>2018-07-17T14:25:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/test/</loc>
-		<lastmod>2018-07-25T06:33:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/home-2/</loc>
-		<lastmod>2018-07-25T06:52:20+00:00</lastmod>
+		<lastmod>2019-04-01T12:17:04+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/Instagram.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/IMG_0468-1024x683-1024x683-1-252x95-252x95.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Shergin.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/IMG_0480-1024x683-1024x683-1-1024x683-252x95.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Jennifer.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/IMG_0482-1024x683-1024x683-1-1024x683-252x95.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Jonathan.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/IMG_0488-1024x683-1024x683-1-1024x683-252x95.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Dr.-Kliman.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/contact-us-2/</loc>
-		<lastmod>2018-07-25T07:17:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Receptionist.png</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/IMG_0509-1024x683-1024x683-1-1024x683-252x95.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://earl-bulasa.github.io/contact-us/</loc>
-		<lastmod>2018-11-28T16:26:53+00:00</lastmod>
+		<lastmod>2019-04-18T02:05:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/cosmetic-dentistry/</loc>
+		<lastmod>2019-04-18T02:10:28+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Receptionist.png</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/Cosmetic-Dentistry.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/sitemap/</loc>
-		<lastmod>2018-11-28T16:59:05+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/cosmetic-dentistry/lumineers/</loc>
+		<lastmod>2019-04-18T02:12:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/lumineers1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/about-stoney-creek-family/</loc>
-		<lastmod>2019-03-19T16:09:04+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/cosmetic-dentistry/teeth-whitening/</loc>
+		<lastmod>2019-04-18T02:13:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Edited-32.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/teeth-whitening.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/cosmetic-dentistry/veneers/</loc>
+		<lastmod>2019-04-18T02:14:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/Veneers.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/</loc>
+		<lastmod>2019-04-18T02:16:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/General-Dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/alloderm-gum-grafting/</loc>
+		<lastmod>2019-04-18T02:17:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/gum-grafting.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/checkup-and-cleaning/</loc>
+		<lastmod>2019-04-18T02:18:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/Checkup-and-Cleaning.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/extractions/</loc>
+		<lastmod>2019-04-18T02:21:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/Extractions.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/fillings/</loc>
+		<lastmod>2019-04-18T02:21:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/fillings.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/gum-disease-treatment/</loc>
+		<lastmod>2019-04-18T02:22:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Gum-Disease-Treatment.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/gum-graft/</loc>
+		<lastmod>2019-04-18T02:22:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/Gum-Grafting-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/halitosis-treatment/</loc>
+		<lastmod>2019-04-18T02:23:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/Halitosis-Treatment-700x290.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/implants/</loc>
+		<lastmod>2019-04-18T02:24:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/Implant-e1490708742270.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/general-dentistry/sedation-dentistry/</loc>
+		<lastmod>2019-04-18T02:24:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/Sedation-Dentistry.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://earl-bulasa.github.io/dental-services/</loc>
-		<lastmod>2019-03-19T16:25:30+00:00</lastmod>
+		<lastmod>2019-04-18T02:25:54+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/01/ServiceIcon.png</image:loc>
-			<image:caption><![CDATA[ServiceIcon]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/img2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/01/ServiceIcon2.png</image:loc>
-			<image:caption><![CDATA[ServiceIcon2]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/generaldentistry.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/01/ServiceIcon3.png</image:loc>
-			<image:caption><![CDATA[ServiceIcon3]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dental_services_02.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-services/crowns-bridges/</loc>
-		<lastmod>2019-03-19T16:35:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-1-1024x682.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dental_services_03.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-services/dental-implants/</loc>
-		<lastmod>2019-03-19T16:38:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-18-1024x682.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/product_img.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/technology-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-services/dentures/</loc>
-		<lastmod>2019-03-19T16:43:31+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/orthodontics/</loc>
+		<lastmod>2019-04-18T02:27:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/orthodontics/porcelain-braces/</loc>
+		<lastmod>2019-04-18T02:28:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/dentures.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/braces-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-services/teeth-whitening/</loc>
-		<lastmod>2019-03-19T16:47:48+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/orthodontics/inside-ibraces/</loc>
+		<lastmod>2019-04-18T02:28:31+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Untitled-1.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/ibraces.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-services/veeners/</loc>
-		<lastmod>2019-03-19T16:50:27+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/orthodontics/invisalign-teen/</loc>
+		<lastmod>2019-04-18T02:32:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-services/sleep-apnea-snoring/</loc>
+		<lastmod>2019-04-18T02:33:26+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/veeners.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/narval-resmed-appliance.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/orthodontics/</loc>
-		<lastmod>2019-03-19T16:53:35+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/sleep-apnea-snoring/sleep-apneaandsnoring/</loc>
+		<lastmod>2019-04-18T02:34:09+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/ortho-1.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/sleep-apnea-1024x373.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-services/</loc>
-		<lastmod>2019-03-19T16:55:41+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/technology/</loc>
+		<lastmod>2019-04-18T02:34:40+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service7.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service8.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service9.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service11.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service12.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/general-dental-services/</loc>
-		<lastmod>2019-03-19T16:58:31+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/technology/digital-x-rays/</loc>
+		<lastmod>2019-04-18T02:35:12+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/checkup.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/kidsservice.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service6.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/digital-xray.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/general-dental-services/checkup-cleanings/</loc>
-		<lastmod>2019-03-19T17:05:15+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/technology/kavo-key-3-laser/</loc>
+		<lastmod>2019-04-18T02:36:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-18-1024x682.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/laser.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/general-dental-services/emergency-care/</loc>
-		<lastmod>2019-03-19T17:07:17+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-services/technology/laser-dentistry/</loc>
+		<lastmod>2019-04-18T02:36:33+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-1-1-1024x682.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/laser-dentistry.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/general-dental-services/oral-surgery/</loc>
-		<lastmod>2019-03-19T17:08:10+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/new-patients/</loc>
+		<lastmod>2019-04-18T02:38:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/about-us/</loc>
+		<lastmod>2019-04-22T12:59:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-18-1024x682.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/team.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/our-team-img.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dr_somayeh.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dr_youree.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dr_ha.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dr_brian.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dd_chin.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dd_yolanda.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dd_reddy.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dd_marsha.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dd_angelie.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dd_alice.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/02/dd_mylene.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/general-dental-services/root-canals/</loc>
-		<lastmod>2019-03-19T17:10:10+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-forms/</loc>
+		<lastmod>2019-04-26T15:13:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-13-1024x682.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/general-dental-services/white-fillings/</loc>
-		<lastmod>2019-03-19T17:12:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-18-1024x682.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/general-dental-services/for-the-kids/</loc>
-		<lastmod>2019-03-19T17:13:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-11-1024x682.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/orthodontics-services/</loc>
-		<lastmod>2019-03-19T17:15:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/service9-1.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/gravity_forms/0-4f967968005ff4df8c79cb4f0f115cc4/2048326774.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/04/Traditional-Braces2.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/gravity_forms/0-4f967968005ff4df8c79cb4f0f115cc4/136844288.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/orthodontics-services/invisalign/</loc>
-		<lastmod>2019-03-19T17:16:59+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/service9-1.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/gravity_forms/0-4f967968005ff4df8c79cb4f0f115cc4/177890972.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/orthodontics-services/traditional-braces/</loc>
-		<lastmod>2019-03-19T17:17:42+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Traditional-Braces.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/patient-services/</loc>
-		<lastmod>2019-03-19T17:20:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-services/cosmetic-bondings/</loc>
-		<lastmod>2019-03-20T17:40:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Edited-13-1024x682.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/gravity_forms/0-4f967968005ff4df8c79cb4f0f115cc4/977629939.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

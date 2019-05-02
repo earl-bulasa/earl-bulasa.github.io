@@ -1,675 +1,1402 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//test-4f808.firebaseapp.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//earl-bulasa.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://earl-bulasa.github.io/london-dentist-which-dental-crown-material-is-best/</loc>
-		<lastmod>2019-01-28T18:26:21+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/facts-about-dental-crown/</loc>
+		<lastmod>2019-04-18T02:49:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Dental-Crowns-London-Ontario-e1537881201641.jpg</image:loc>
-			<image:title><![CDATA[Dental Crowns London Ontario]]></image:title>
-			<image:caption><![CDATA[Dental Crowns London Ontario - Ontario CIty Ontario Dentist - Stoney Creek Family Dental]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-crown.jpg</image:loc>
+			<image:title><![CDATA[dental crown]]></image:title>
+			<image:caption><![CDATA[dental crown]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Dental-Crowns-London-Ontario-e1537881201641-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/maintaining-partial-plate-dentures/</loc>
-		<lastmod>2019-03-23T11:00:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/smiling-seniors.jpg</image:loc>
-			<image:title><![CDATA[smiling seniors with partial plate dentures]]></image:title>
-			<image:caption><![CDATA[smiling seniors with partial plate dentures]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-crown.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/senior-patient-holding-dentures.jpg</image:loc>
-			<image:caption><![CDATA[senior patient holding model dentures]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/smiling-seniors-800x400.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/4.jpg</image:loc>
+			<image:caption><![CDATA[5 Helpful Facts About Dental Crown You Need To Know-2]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/lumineers-teeth-side-effects/</loc>
-		<lastmod>2019-03-20T17:57:15+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/benefits-of-laser-dentistry/</loc>
+		<lastmod>2019-04-18T02:51:03+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/smiling-with-lumineers.jpg</image:loc>
-			<image:title><![CDATA[smiling with lumineers]]></image:title>
-			<image:caption><![CDATA[smiling with lumineers]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/laser.jpg</image:loc>
+			<image:title><![CDATA[laser]]></image:title>
+			<image:caption><![CDATA[laser]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/checking-teeth-in-mirror.jpg</image:loc>
-			<image:caption><![CDATA[checking teeth in mirror]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/laser.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/smiling-with-lumineers-800x400.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/dental-crown-common-myths/</loc>
-		<lastmod>2019-03-20T18:01:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/SU-Design-1550737159.jpg</image:loc>
-			<image:title><![CDATA[dental crown procedure]]></image:title>
-			<image:caption><![CDATA[dental crown procedure]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/SU-Design-1550736959.jpg</image:loc>
-			<image:caption><![CDATA[flossing teeth regularly]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/SU-Design-1550737159-800x400.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/54.jpg</image:loc>
+			<image:caption><![CDATA[6 Benefits Of Laser Dentistry That Will Change Your Life-2]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/make-your-partial-plate-dentures-last/</loc>
-		<lastmod>2019-03-20T18:01:53+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/discover-dental-veneeres/</loc>
+		<lastmod>2019-04-18T02:55:11+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/23.jpg</image:loc>
-			<image:title><![CDATA[6 Easy Ways To Make Your Partial Plate Dentures Last]]></image:title>
-			<image:caption><![CDATA[Partial Plate Dentures]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/veneers.jpg</image:loc>
+			<image:title><![CDATA[veneers]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/24.jpg</image:loc>
-			<image:caption><![CDATA[6 Easy Ways To Make Your Partial Plate Dentures Last-2]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/2.18.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/23.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/5-things-about-dental-cleaning/</loc>
-		<lastmod>2019-03-20T18:02:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/21.jpg</image:loc>
-			<image:title><![CDATA[5 Things To Expect During A Dental Cleaning Treatment]]></image:title>
-			<image:caption><![CDATA[Dental Cleaning Treatment]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/22.jpg</image:loc>
-			<image:caption><![CDATA[5 Things To Expect During A Dental Cleaning Treatment-2]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/21.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/smiling-with-veneers-1.jpg</image:loc>
+			<image:caption><![CDATA[smiling with veneers]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/6-facts-about-dental-veneers/</loc>
-		<lastmod>2019-03-20T18:03:21+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/advantages-of-ceramic-braces-2/</loc>
+		<lastmod>2019-04-18T02:56:55+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/19.jpg</image:loc>
-			<image:title><![CDATA[6 Must-Read Facts About Veneers And Its Benefits]]></image:title>
-			<image:caption><![CDATA[Veneers]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/3-Benefits-of-Ceramic-Braces-You-Need-To-Know.jpg</image:loc>
+			<image:title><![CDATA[3-Benefits-of-Ceramic-Braces-You-Need-To-Know]]></image:title>
+			<image:caption><![CDATA[3-Benefits-of-Ceramic-Braces-You-Need-To-Know]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/20.jpg</image:loc>
-			<image:caption><![CDATA[6 Must-Read Facts About Veneers And Its Benefits-2]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/3-Benefits-of-Ceramic-Braces-You-Need-To-Know.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/19.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/keep-ceramic-braces-stain-free/</loc>
-		<lastmod>2019-03-20T18:04:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/5-Best-Life-Hacks-To-Keep-Your-Ceramic-Braces-Stain-Free.jpg</image:loc>
-			<image:title><![CDATA[5 Best Life Hacks To Keep Your Ceramic Braces Stain-Free]]></image:title>
-			<image:caption><![CDATA[Ceramic Braces]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/5-Best-Life-Hacks-To-Keep-Your-Ceramic-Braces-Stain-Free-2.jpg</image:loc>
-			<image:caption><![CDATA[5 Best Life Hacks To Keep Your Ceramic Braces Stain-Free-2]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/5-Best-Life-Hacks-To-Keep-Your-Ceramic-Braces-Stain-Free.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/37.jpg</image:loc>
+			<image:caption><![CDATA[ceramic braces brackets]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/get-your-child-ready-for-tooth-extraction/</loc>
-		<lastmod>2019-03-20T18:04:45+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/have-tooth-extraction-now/</loc>
+		<lastmod>2019-04-18T02:58:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/01/Can-A-Child-Have-A-Safe-And-Painless-Tooth-Extraction.jpg</image:loc>
-			<image:title><![CDATA[Can A Child Have A Safe And Painless Tooth Extraction]]></image:title>
-			<image:caption><![CDATA[Painless Tooth Extraction]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/How-Can-A-Tooth-Extraction-Help-You-On-Your-Next-Date-2-1.jpg</image:loc>
+			<image:title><![CDATA[How-Can-A-Tooth-Extraction-Help-You-On-Your-Next-Date-2-1]]></image:title>
+			<image:caption><![CDATA[How-Can-A-Tooth-Extraction-Help-You-On-Your-Next-Date-2-1]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/01/Can-A-Child-Have-A-Safe-And-Painless-Tooth-Extraction.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/the-types-of-dental-implants/</loc>
-		<lastmod>2019-03-20T18:05:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/01/Dental-Implants-Its-Various-Types-In-Improving-Smiles.jpg</image:loc>
-			<image:title><![CDATA[Dental Implants Its Various Types In Improving Smiles]]></image:title>
-			<image:caption><![CDATA[Dental Implants]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/How-Can-A-Tooth-Extraction-Help-You-On-Your-Next-Date-2-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/01/Dental-Implants-Its-Various-Types-In-Improving-Smiles.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/How-Can-A-Tooth-Extraction-Help-You-On-Your-Next-Date-2.jpg</image:loc>
+			<image:caption><![CDATA[How Can A Tooth Extraction Help You On Your Next Date]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/7-gift-ideas-for-invisalign-users/</loc>
-		<lastmod>2019-03-20T18:06:31+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/invest-in-dental-implants/</loc>
+		<lastmod>2019-04-18T03:01:57+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/01/Invisalign-Clear-Aligners-Must-Have-Aftercare-Items.jpg</image:loc>
-			<image:title><![CDATA[Invisalign Clear Aligners Must-Have Aftercare Items]]></image:title>
-			<image:caption><![CDATA[Invisalign Clear Aligners]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Dental-Implants-A-Good-Investment-In-The-Long-Run-1.jpg</image:loc>
+			<image:title><![CDATA[Dental-Implants-A-Good-Investment-In-The-Long-Run-1]]></image:title>
+			<image:caption><![CDATA[Dental-Implants-A-Good-Investment-In-The-Long-Run-1]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/01/Invisalign-Clear-Aligners-Must-Have-Aftercare-Items.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/root-canal-treatment-ends-dental-pain/</loc>
-		<lastmod>2019-03-20T18:07:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/01/Dental-Pain-Is-Root-Canal-Therapy-Your-Best-Option.jpg</image:loc>
-			<image:title><![CDATA[Dental Pain Is Root Canal Therapy Your Best Option]]></image:title>
-			<image:caption><![CDATA[Root Canal Therapy]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Dental-Implants-A-Good-Investment-In-The-Long-Run-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/01/Dental-Pain-Is-Root-Canal-Therapy-Your-Best-Option.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/Dental-Implants-A-Good-Investment-In-The-Long-Run.jpg</image:loc>
+			<image:caption><![CDATA[Dental Implants A Good Investment In The Long Run]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/tooth-filling-procedure/</loc>
-		<lastmod>2019-03-20T18:07:44+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/8-things-you-should-know-about-invisalign/</loc>
+		<lastmod>2019-04-18T03:04:31+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/What-Things-Do-You-Expect-During-A-Tooth-Filling-Procedure.jpg</image:loc>
-			<image:title><![CDATA[What Things Do You Expect During A Tooth Filling Procedure]]></image:title>
-			<image:caption><![CDATA[Tooth Filling]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign8.jpg</image:loc>
+			<image:title><![CDATA[invisalign8]]></image:title>
+			<image:caption><![CDATA[invisalign8]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/What-Things-Do-You-Expect-During-A-Tooth-Filling-Procedure.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/root-canal-procedure/</loc>
-		<lastmod>2019-03-20T18:08:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/Things-You-Need-To-Know-About-Root-Canal-Procedure.jpg</image:loc>
-			<image:title><![CDATA[Things You Need To Know About Root Canal Procedure]]></image:title>
-			<image:caption><![CDATA[Root Canal Procedure]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign8.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/Things-You-Need-To-Know-About-Root-Canal-Procedure.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/2-1.jpg</image:loc>
+			<image:caption><![CDATA[the dentist and his assistant performing the Invisalign Treatment procedure]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/pediatric-dentist/</loc>
-		<lastmod>2019-03-20T18:09:41+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/have-routine-dental-cleaning-now/</loc>
+		<lastmod>2019-04-18T03:06:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/What-Is-A-Pediatric-Dentist-And-What-Services-Does-He-Offer.jpg</image:loc>
-			<image:title><![CDATA[What Is A Pediatric Dentist And What Services Does He Offer]]></image:title>
-			<image:caption><![CDATA[Pediatric Dentist]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-cleaning.jpg</image:loc>
+			<image:title><![CDATA[dental cleaning]]></image:title>
+			<image:caption><![CDATA[dental cleaning]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/What-Is-A-Pediatric-Dentist-And-What-Services-Does-He-Offer.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/emergency-dentist-in-london/</loc>
-		<lastmod>2019-03-20T18:10:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/Emergency-Dentist-In-London-When-Do-You-Need-One.jpeg</image:loc>
-			<image:title><![CDATA[Emergency Dentist In London When Do You Need One]]></image:title>
-			<image:caption><![CDATA[Stoney Creek Family Dental Clinic]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-cleaning.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/Emergency-Dentist-In-London-When-Do-You-Need-One.jpeg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/2.jpg</image:loc>
+			<image:caption><![CDATA[dentist conducts routine dental cleaning]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/affordable-dental-implants/</loc>
-		<lastmod>2019-03-20T18:11:40+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-implants-reviews/</loc>
+		<lastmod>2019-04-18T03:07:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/rsz_140423-f-hj547-018.jpg</image:loc>
-			<image:title><![CDATA[affordable dental implants]]></image:title>
-			<image:caption><![CDATA[affordable dental implants]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Dental-Implants-Reviews-Help-Patients-To-Have-Teeth-Restored.jpg</image:loc>
+			<image:title><![CDATA[Dental-Implants-Reviews-Help-Patients-To-Have-Teeth-Restored]]></image:title>
+			<image:caption><![CDATA[Dental-Implants-Reviews-Help-Patients-To-Have-Teeth-Restored]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/rsz_140423-f-hj547-018.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-dentistry-procedures/</loc>
-		<lastmod>2019-03-20T18:11:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/rsz_cosmetic-e1513069207231.jpg</image:loc>
-			<image:title><![CDATA[cosmetic dentistry procedures]]></image:title>
-			<image:caption><![CDATA[cosmetic dentistry procedures]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/rsz_cosmetic-e1513069207231.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Dental-Implants-Reviews-Help-Patients-To-Have-Teeth-Restored.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/buck-teeth-causes/</loc>
-		<lastmod>2019-03-20T18:12:10+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/best-natural-bad-breath-remedy/</loc>
+		<lastmod>2019-04-18T03:08:09+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/176930.jpg</image:loc>
-			<image:title><![CDATA[buck teeth causes]]></image:title>
-			<image:caption><![CDATA[buck teeth causes]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-Natural-Bad-Breath-Remedy-Options-To-End-Halitosis.jpg</image:loc>
+			<image:title><![CDATA[Best-Natural-Bad-Breath-Remedy-Options-To-End-Halitosis]]></image:title>
+			<image:caption><![CDATA[Best-Natural-Bad-Breath-Remedy-Options-To-End-Halitosis]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/176930.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/affordable-dentures/</loc>
-		<lastmod>2019-03-20T18:12:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/rsz_dentures.jpg</image:loc>
-			<image:title><![CDATA[affordable dentures]]></image:title>
-			<image:caption><![CDATA[affordable dentures]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/12/rsz_dentures.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-Natural-Bad-Breath-Remedy-Options-To-End-Halitosis.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/teeth-whitening-products/</loc>
-		<lastmod>2019-03-21T11:41:00+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/gum-graft-healing-stages-2/</loc>
+		<lastmod>2019-04-18T03:09:01+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Teeth-Whitening-Products-Stoney-Creek-Family-Dental-Clinic.jpeg</image:loc>
-			<image:title><![CDATA[Teeth Whitening Products - Stoney Creek Family Dental Clinic]]></image:title>
-			<image:caption><![CDATA[Teeth Whitening Products - Stoney Creek Family Dental Clinic]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/The-Two-Gum-Graft-Healing-Stages-On-The-Road-to-Recovery.jpg</image:loc>
+			<image:title><![CDATA[The-Two-Gum-Graft-Healing-Stages-On-The-Road-to-Recovery]]></image:title>
+			<image:caption><![CDATA[The-Two-Gum-Graft-Healing-Stages-On-The-Road-to-Recovery]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/Teeth-Whitening-Products-Stoney-Creek-Family-Dental-Clinic.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/general-dentist-in-london/</loc>
-		<lastmod>2019-03-21T11:44:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/General-Dentist-In-London-Stoney-Creek-Family-Dental-Clinic.jpg</image:loc>
-			<image:title><![CDATA[General Dentist In London - Stoney Creek Family Dental Clinic]]></image:title>
-			<image:caption><![CDATA[General Dentist In London - Stoney Creek Family Dental Clinic]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/General-Dentist-In-London-Stoney-Creek-Family-Dental-Clinic.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/The-Two-Gum-Graft-Healing-Stages-On-The-Road-to-Recovery.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/cosmetic-teeth-surgery/</loc>
-		<lastmod>2019-03-21T11:45:13+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/gum-graft-surgery/</loc>
+		<lastmod>2019-04-18T03:11:11+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/rsz_dentist-542264_1280.jpg</image:loc>
-			<image:title><![CDATA[cosmetic teeth surgery]]></image:title>
-			<image:caption><![CDATA[cosmetic teeth surgery]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Three-Ways-of-Gum-Graft-Surgery-To-Restore-Your-Gum-Health.jpg</image:loc>
+			<image:title><![CDATA[Three-Ways-of-Gum-Graft-Surgery-To-Restore-Your-Gum-Health]]></image:title>
+			<image:caption><![CDATA[Three-Ways-of-Gum-Graft-Surgery-To-Restore-Your-Gum-Health]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/rsz_dentist-542264_1280.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/how-to-repair-cavities/</loc>
-		<lastmod>2019-03-21T11:45:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/rsz_toothpaste-3067570_1280.jpg</image:loc>
-			<image:title><![CDATA[how to repair cavities]]></image:title>
-			<image:caption><![CDATA[how to repair cavities]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/11/rsz_toothpaste-3067570_1280.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Three-Ways-of-Gum-Graft-Surgery-To-Restore-Your-Gum-Health.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/cracked-tooth/</loc>
-		<lastmod>2019-03-21T11:46:30+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-cleaning-cost/</loc>
+		<lastmod>2019-04-18T03:12:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/pexels-photo-1161929.jpeg</image:loc>
-			<image:title><![CDATA[Cracked Tooth - Stoney Creek Family Dental Clinic]]></image:title>
-			<image:caption><![CDATA[Cracked Tooth - Stoney Creek Family Dental Clinic]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/rsz_dentist-1427291_1280-1.jpg</image:loc>
+			<image:title><![CDATA[rsz_dentist-1427291_1280-1]]></image:title>
+			<image:caption><![CDATA[rsz_dentist-1427291_1280-1]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/pexels-photo-1161929.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/kids-dentist-in-south-wenige-drive/</loc>
-		<lastmod>2019-03-21T11:47:03+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/blaise-vonlanthen-546859-unsplash.jpg</image:loc>
-			<image:title><![CDATA[Kids' Dentist In South Wenige Drive- Stoney Creek Family Dental Clinic]]></image:title>
-			<image:caption><![CDATA[Kids' Dentist In South Wenige Drive- Stoney Creek Family Dental Clinic]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/blaise-vonlanthen-546859-unsplash.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/rsz_dentist-1427291_1280-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/emergency-dentist-in-london-ontario-2/</loc>
-		<lastmod>2019-03-21T11:47:32+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/advanced-dental-technology/</loc>
+		<lastmod>2019-04-18T03:13:33+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/pexels-photo-263402.jpeg</image:loc>
-			<image:title><![CDATA[Emergency Dentist In London Ontario - Stoney Creek Family Dental Clinic]]></image:title>
-			<image:caption><![CDATA[Stoney Creek Family Dental Clinic]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Military_dentists_in_Guatemala.jpg</image:loc>
+			<image:title><![CDATA[Military_dentists_in_Guatemala]]></image:title>
+			<image:caption><![CDATA[Military_dentists_in_Guatemala]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/pexels-photo-263402.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/teeth-cleaning-guide-2/</loc>
-		<lastmod>2019-03-21T11:48:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/angelos-michalopoulos-742344-unsplash.jpg</image:loc>
-			<image:title><![CDATA[Teeth Cleaning Guide - Stoney Creek Family Dental Clinic]]></image:title>
-			<image:caption><![CDATA[Teeth Cleaning Guide - Stoney Creek Family Dental Clinic]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/angelos-michalopoulos-742344-unsplash.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Military_dentists_in_Guatemala.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/invisalign-treatment-in-south-wenige-drive/</loc>
-		<lastmod>2019-03-21T11:52:17+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/laser-dentistry-techniques/</loc>
+		<lastmod>2019-04-18T03:14:32+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/Invisalign-London-Ontario-London-Ontario-Dentists-West-Five-Family-Dental.jpg</image:loc>
-			<image:title><![CDATA[Invisalign treatment in South Wenige Drive - Stoney Creek Family Dental]]></image:title>
-			<image:caption><![CDATA[Invisalign treatment in South Wenige Drive - Stoney Creek Family Dental]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Office_Teeth_Whitening.jpg</image:loc>
+			<image:title><![CDATA[Office_Teeth_Whitening]]></image:title>
+			<image:caption><![CDATA[Office_Teeth_Whitening]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/Invisalign-London-Ontario-London-Ontario-Dentists-West-Five-Family-Dental.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/traditional-braces-in-south-wenige-drive/</loc>
-		<lastmod>2019-03-21T11:52:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/traditional-braces-in-South-Wenige-Drive-Stoney-Creek-Family-Dental.jpeg</image:loc>
-			<image:title><![CDATA[traditional braces in South Wenige Drive - Stoney Creek Family Dental]]></image:title>
-			<image:caption><![CDATA[traditional braces in South Wenige Drive - Stoney Creek Family Dental]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/traditional-braces-in-South-Wenige-Drive-Stoney-Creek-Family-Dental.jpeg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Office_Teeth_Whitening.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/dental-check-up-appointment-in-london-ontario/</loc>
-		<lastmod>2019-03-21T11:53:20+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/gum-disease-treatment-2/</loc>
+		<lastmod>2019-04-18T03:17:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/dental-check-up-appointment-in-London-Ontario-Stoney-Creek-Dentistry.jpeg</image:loc>
-			<image:title><![CDATA[dental check up appointment in London Ontario - Stoney Creek Dentistry]]></image:title>
-			<image:caption><![CDATA[Stoney Creek Family Dental Clinic]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/rsz_lieutenant-commander-oehlberg-dental-officer-performs-an-oral-examination-on-234d86-1600.jpg</image:loc>
+			<image:title><![CDATA[rsz_lieutenant-commander-oehlberg-dental-officer-performs-an-oral-examination-on-234d86-1600]]></image:title>
+			<image:caption><![CDATA[rsz_lieutenant-commander-oehlberg-dental-officer-performs-an-oral-examination-on-234d86-1600]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/dental-check-up-appointment-in-London-Ontario-Stoney-Creek-Dentistry.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/after-orthodontic-treatment/</loc>
-		<lastmod>2019-03-21T11:54:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/After-orthodontic-treatment-Stoney-Creek-Family-Dental-Clinic.jpeg</image:loc>
-			<image:title><![CDATA[After orthodontic treatment - Stoney Creek Family Dental Clinic]]></image:title>
-			<image:caption><![CDATA[After orthodontic treatment - Stoney Creek Family Dental Clinic]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/10/After-orthodontic-treatment-Stoney-Creek-Family-Dental-Clinic.jpeg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/rsz_lieutenant-commander-oehlberg-dental-officer-performs-an-oral-examination-on-234d86-1600.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/teeth-whitening-at-home-2/</loc>
-		<lastmod>2019-03-21T11:55:21+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/accelerated-orthodontics-cost/</loc>
+		<lastmod>2019-04-18T03:18:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/09/Teeth-Whitening-at-Home-Stoney-Creek-Family-Dental-Clinic.png</image:loc>
-			<image:title><![CDATA[Teeth Whitening at Home - Stoney Creek Family Dental Clinic]]></image:title>
-			<image:caption><![CDATA[Teeth Whitening at Home - Stoney Creek Family Dental Clinic]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/All-You-Need-To-Know-About-Accelerated-Orthodontics-Cost.jpg</image:loc>
+			<image:title><![CDATA[All-You-Need-To-Know-About-Accelerated-Orthodontics-Cost]]></image:title>
+			<image:caption><![CDATA[All-You-Need-To-Know-About-Accelerated-Orthodontics-Cost]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/09/Teeth-Whitening-at-Home-Stoney-Creek-Family-Dental-Clinic.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/tooth-bonding-in-london-ontario/</loc>
-		<lastmod>2019-03-21T11:56:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/09/Tooth-Bonding-in-London-Ontario-Stoney-Creek-Family-Dental-1.png</image:loc>
-			<image:title><![CDATA[Tooth Bonding in London Ontario - Stoney Creek Family Dental]]></image:title>
-			<image:caption><![CDATA[Tooth Bonding in London Ontario - Stoney Creek Family Dental]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/09/Tooth-Bonding-in-London-Ontario-Stoney-Creek-Family-Dental-1.png</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/All-You-Need-To-Know-About-Accelerated-Orthodontics-Cost.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/stained-teeth-treatment-2/</loc>
-		<lastmod>2019-03-21T11:57:20+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/toronto-inside-braces/</loc>
+		<lastmod>2019-04-18T03:20:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/09/Stained-Teeth-Treatment-Stoney-Creek-Family-Dental.jpg</image:loc>
-			<image:title><![CDATA[Stained Teeth Treatment - Stoney Creek Family Dental]]></image:title>
-			<image:caption><![CDATA[Stained Teeth Treatment - Stoney Creek Family Dental]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/What-You-Need-To-Know-About-Toronto-Inside-Braces.jpg</image:loc>
+			<image:title><![CDATA[What-You-Need-To-Know-About-Toronto-Inside-Braces]]></image:title>
+			<image:caption><![CDATA[What-You-Need-To-Know-About-Toronto-Inside-Braces]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/09/Stained-Teeth-Treatment-Stoney-Creek-Family-Dental.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/fractured-tooth-treatment/</loc>
-		<lastmod>2019-03-21T11:57:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/09/Fractured-Tooth-Treatment-Stoney-Creek-Family-Dental-e1537804098411.jpg</image:loc>
-			<image:title><![CDATA[Fractured Tooth Treatment - Stoney Creek Family Dental]]></image:title>
-			<image:caption><![CDATA[Fractured Tooth Treatment - Stoney Creek Family Dental]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/09/Fractured-Tooth-Treatment-Stoney-Creek-Family-Dental-600x231-1.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/What-You-Need-To-Know-About-Toronto-Inside-Braces.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/london-dentist-how-do-you-know-if-your-tooth-is-impacted/</loc>
-		<lastmod>2019-03-21T11:59:13+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/invisalign-cost/</loc>
+		<lastmod>2019-04-18T03:20:42+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Impacted-Teeth-London-Ontario-e1537805286788.png</image:loc>
-			<image:title><![CDATA[Impacted Teeth London Ontario]]></image:title>
-			<image:caption><![CDATA[Impacted Teeth London Ontario - London City London Dentist - Stoney Creek Family Dental]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Does-Invisalign-Cost-More-Than-Traditional-Braces.jpg</image:loc>
+			<image:title><![CDATA[Does-Invisalign-Cost-More-Than-Traditional-Braces]]></image:title>
+			<image:caption><![CDATA[Does-Invisalign-Cost-More-Than-Traditional-Braces]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/07/fdsfdsfdffd.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/root-canal-therapy-london-ontario/</loc>
-		<lastmod>2019-03-21T11:59:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Root-Canal-Therapy-London-Ontario.jpg</image:loc>
-			<image:title><![CDATA[Root Canal Therapy London Ontario]]></image:title>
-			<image:caption><![CDATA[Root Canal Therapy London Ontario - London City London Dentist - Stoney Creek Family Dental]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/dsdsdsd.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Does-Invisalign-Cost-More-Than-Traditional-Braces.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/dental-implants-london-ontario/</loc>
-		<lastmod>2019-03-21T12:02:48+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/average-cost-of-invisalign/</loc>
+		<lastmod>2019-04-18T03:21:19+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Dental-Implants-London-Ontario-London-Dentist-Stoney-Family-Dental.jpg</image:loc>
-			<image:title><![CDATA[Dental Implants London Ontario - London Dentist - Stoney Family Dental]]></image:title>
-			<image:caption><![CDATA[Dental Implants London Ontario - London Dentist - Stoney Family Dental]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/What-is-the-Average-Cost-of-Invisalign-in-Toronto.jpg</image:loc>
+			<image:title><![CDATA[What-is-the-Average-Cost-of-Invisalign-in-Toronto]]></image:title>
+			<image:caption><![CDATA[What-is-the-Average-Cost-of-Invisalign-in-Toronto]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/teeth.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/dental-fillings-london-ontario/</loc>
-		<lastmod>2019-03-21T12:06:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Dental-Fillings-London-Ontario-London-Dentist-Stoney-Dental-Clinic.jpg</image:loc>
-			<image:title><![CDATA[Dental Fillings London Ontario - London Dentist - Stoney Dental Clinic]]></image:title>
-			<image:caption><![CDATA[Dental Fillings London Ontario - London Dentist - Stoney Dental Clinic]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Dental-Fillings-London-Ontario-London-Dentist-Stoney-Dental-Clinic.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/What-is-the-Average-Cost-of-Invisalign-in-Toronto.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/teeth-whitening-london-ontario/</loc>
-		<lastmod>2019-03-21T12:11:13+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/tooth-extraction-in-toronto-2/</loc>
+		<lastmod>2019-04-18T03:22:09+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Teeth-Whitening-London-Ontario-London-Dentist-Stoney-Dental-Clinic.jpg</image:loc>
-			<image:title><![CDATA[Teeth Whitening London Ontario - London Dentist - Stoney Dental Clinic]]></image:title>
-			<image:caption><![CDATA[Teeth Whitening London Ontario - London Dentist - Stoney Dental Clinic]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Tooth-Extraction-In-Toronto-General-Dentistry-Downtown-Dentistry.jpeg</image:loc>
+			<image:title><![CDATA[Tooth-Extraction-In-Toronto-General-Dentistry-Downtown-Dentistry]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Teeth-Whitening-London-Ontario-London-Dentist-Stoney-Dental-Clinic-1.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Tooth-Extraction-In-Toronto-General-Dentistry-Downtown-Dentistry.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/london-ontario-orthodontist/</loc>
-		<lastmod>2019-03-21T12:11:57+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-x-ray/</loc>
+		<lastmod>2019-04-18T03:23:01+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/braces.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Dental-X-ray-General-Dentistry-Downtown-Dentistry.jpg</image:loc>
+			<image:title><![CDATA[Dental-X-ray-General-Dentistry-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Dental-X-ray-General-Dentistry-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Dental-X-ray-General-Dentistry-Downtown-Dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/snoring-solutions/</loc>
+		<lastmod>2019-04-18T03:23:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/snoring.jpg</image:loc>
+			<image:title><![CDATA[snoring]]></image:title>
+			<image:caption><![CDATA[snoring]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/snoring.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/pediatric-dental-clinic-toronto/</loc>
+		<lastmod>2019-04-18T03:24:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth-extraction-cost-in-Brooklin-Brooklin-Village-Dental-Care.jpeg</image:loc>
+			<image:title><![CDATA[tooth-extraction-cost-in-Brooklin-Brooklin-Village-Dental-Care]]></image:title>
+			<image:caption><![CDATA[tooth-extraction-cost-in-Brooklin-Brooklin-Village-Dental-Care]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth-extraction-cost-in-Brooklin-Brooklin-Village-Dental-Care.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/invisalign-dental-procedure/</loc>
+		<lastmod>2019-04-18T03:25:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Invisalign-Dental-Procedure-Downtown-Dentists-Downtown-Dentistry.jpg</image:loc>
+			<image:title><![CDATA[Invisalign-Dental-Procedure-Downtown-Dentists-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Invisalign-Dental-Procedure-Downtown-Dentists-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Invisalign-Dental-Procedure-Downtown-Dentists-Downtown-Dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/how-to-find-a-childrens-dentist-in-downtown/</loc>
+		<lastmod>2019-04-18T03:25:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Childrens-Dentist-In-Downtown-Downtown-Dentistry.jpg</image:loc>
+			<image:title><![CDATA[Childrens-Dentist-In-Downtown-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Childrens-Dentist-In-Downtown-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Childrens-Dentist-In-Downtown-Downtown-Dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/gentle-family-dentistry/</loc>
+		<lastmod>2019-04-18T03:26:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/benefits.jpg</image:loc>
+			<image:title><![CDATA[benefits]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/benefits.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/child-friendly-dentist-in-toronto/</loc>
+		<lastmod>2019-04-18T03:27:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/friendly.jpg</image:loc>
+			<image:title><![CDATA[friendly]]></image:title>
+			<image:caption><![CDATA[friendly]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/friendly.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/gum-disease-and-saltwater-rinse/</loc>
+		<lastmod>2019-04-18T03:28:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/The-benefits-of-saltwater-rinse-to-your-oral-health.jpeg</image:loc>
+			<image:title><![CDATA[The-benefits-of-saltwater-rinse-to-your-oral-health]]></image:title>
+			<image:caption><![CDATA[The-benefits-of-saltwater-rinse-to-your-oral-health]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/The-benefits-of-saltwater-rinse-to-your-oral-health.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/safe-dental-fillings/</loc>
+		<lastmod>2019-04-18T03:30:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Are-amalgams-safe-dental-fillings.jpg</image:loc>
+			<image:title><![CDATA[Are-amalgams-safe-dental-fillings]]></image:title>
+			<image:caption><![CDATA[Are-amalgams-safe-dental-fillings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Are-amalgams-safe-dental-fillings.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/tooth-extraction-in-toronto/</loc>
+		<lastmod>2019-04-18T03:32:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Types-of-tooth-extraction-in-Toronto.jpeg</image:loc>
+			<image:title><![CDATA[Types-of-tooth-extraction-in-Toronto]]></image:title>
+			<image:caption><![CDATA[Types-of-tooth-extraction-in-Toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Types-of-tooth-extraction-in-Toronto.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/routine-dental-checkup/</loc>
+		<lastmod>2019-04-18T03:32:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/These-are-the-top-two-benefits-of-a-routine-dental-checkup.jpeg</image:loc>
+			<image:title><![CDATA[These-are-the-top-two-benefits-of-a-routine-dental-checkup]]></image:title>
+			<image:caption><![CDATA[These-are-the-top-two-benefits-of-a-routine-dental-checkup]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/These-are-the-top-two-benefits-of-a-routine-dental-checkup.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/lumineers-dentist-in-toronto/</loc>
+		<lastmod>2019-04-18T03:34:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Lumineers-Dentist-in-Toronto-Toronto-Ontario-Dentist-Downtown-Dentistry.jpg</image:loc>
+			<image:title><![CDATA[Lumineers-Dentist-in-Toronto-Toronto-Ontario-Dentist-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Lumineers-Dentist-in-Toronto-Toronto-Ontario-Dentist-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Lumineers-Dentist-in-Toronto-Toronto-Ontario-Dentist-Downtown-Dentistry-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/halitosis-remedies/</loc>
+		<lastmod>2019-04-18T03:34:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Halitosis-Remedies-Toronto-Ontario-Dentists-Downtown-Dentistry.jpg</image:loc>
+			<image:title><![CDATA[Halitosis-Remedies-Toronto-Ontario-Dentists-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Halitosis-Remedies-Toronto-Ontario-Dentists-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Halitosis-Remedies-Toronto-Ontario-Dentists-Downtown-Dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/alloderm-gum-graft-cost/</loc>
+		<lastmod>2019-04-18T03:35:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Alloderm-gum-graft-cost-Toronto-Ontario-Dentists-Downtown-Dentistry-1.jpg</image:loc>
+			<image:title><![CDATA[Alloderm-gum-graft-cost-Toronto-Ontario-Dentists-Downtown-Dentistry-1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Alloderm-gum-graft-cost-Toronto-Ontario-Dentists-Downtown-Dentistry-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/teeth-cleaning-in-toronto/</loc>
+		<lastmod>2019-04-18T03:36:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Teeth-Cleaning-in-Toronto-Toronto-Ontario-Dentists-Downtown-Dentistry.jpg</image:loc>
+			<image:title><![CDATA[Teeth-Cleaning-in-Toronto-Toronto-Ontario-Dentists-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Teeth-Cleaning-in-Toronto-Toronto-Ontario-Dentists-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Teeth-Cleaning-in-Toronto-Toronto-Ontario-Dentists-Downtown-Dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/swollen-gums-problem/</loc>
+		<lastmod>2019-04-18T03:37:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Swollen-Gums-Problem-Toronto-Ontario-Dentists-Downtown-Dentistry.png</image:loc>
+			<image:title><![CDATA[Swollen-Gums-Problem-Toronto-Ontario-Dentists-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Swollen-Gums-Problem-Toronto-Ontario-Dentists-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Swollen-Gums-Problem-Toronto-Ontario-Dentists-Downtown-Dentistry.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/sedation-dentistry-in-toronto/</loc>
+		<lastmod>2019-04-18T03:38:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Sedation-Dentistry-in-Toronto-Toronto-Ontario-Dentists-Downtown-Dentistry.jpg</image:loc>
+			<image:title><![CDATA[Sedation-Dentistry-in-Toronto-Toronto-Ontario-Dentists-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Sedation-Dentistry-in-Toronto-Toronto-Ontario-Dentists-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Sedation-Dentistry-in-Toronto-Toronto-Ontario-Dentists-Downtown-Dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/what-is-holistic-dentistry/</loc>
+		<lastmod>2019-04-18T03:38:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/holistic-dentist-toronto-dentist-in-toronto-downtown-dental.jpg</image:loc>
+			<image:title><![CDATA[holistic-dentist-toronto-dentist-in-toronto-downtown-dental]]></image:title>
+			<image:caption><![CDATA[holistic-dentist-toronto-dentist-in-toronto-downtown-dental]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/holistic-dentist-toronto-dentist-in-toronto-downtown-dental-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/painless-tooth-extraction/</loc>
+		<lastmod>2019-04-18T03:39:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/painless-tooth-extraction-dentist-in-toronto-downtown-dental.jpg</image:loc>
+			<image:title><![CDATA[painless-tooth-extraction-dentist-in-toronto-downtown-dental]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/painless-tooth-extraction-dentist-in-toronto-downtown-dental.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-checkup-toronto/</loc>
+		<lastmod>2019-04-18T03:41:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-checkup-toronto-dentist-in-toronto-downtown-dental.jpg</image:loc>
+			<image:title><![CDATA[dental-checkup-toronto-dentist-in-toronto-downtown-dental]]></image:title>
+			<image:caption><![CDATA[dental-checkup-toronto-dentist-in-toronto-downtown-dental]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-checkup-toronto-dentist-in-toronto-downtown-dental.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/cost-of-braces-toronto/</loc>
+		<lastmod>2019-04-18T03:42:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/cost-of-brace-in-toronto-dentist-in-toronto-downtown-dentist-3.jpg</image:loc>
+			<image:title><![CDATA[cost-of-brace-in-toronto-dentist-in-toronto-downtown-dentist-3]]></image:title>
+			<image:caption><![CDATA[cost-of-brace-in-toronto-dentist-in-toronto-downtown-dentist-3]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/cost-of-brace-in-toronto-dentist-in-toronto-downtown-dentist-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/gum-graft-healing-stages/</loc>
+		<lastmod>2019-04-18T03:43:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Gum-Graft-Surgery-Healing-Stage-DowntownDentistry.jpeg</image:loc>
+			<image:title><![CDATA[Gum-Graft-Surgery-Healing-Stage-DowntownDentistry]]></image:title>
+			<image:caption><![CDATA[Gum-Graft-Surgery-Healing-Stage-DowntownDentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Gum-Graft-Surgery-Healing-Stage-DowntownDentistry.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/tooth-extraction-cost-toronto/</loc>
+		<lastmod>2019-04-18T03:44:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Tooth-Extraction-Cost-Toronto-Dentist-Toronto-Downtown-Dentistry.jpg</image:loc>
+			<image:title><![CDATA[Tooth-Extraction-Cost-Toronto-Dentist-Toronto-Downtown-Dentistry]]></image:title>
+			<image:caption><![CDATA[Tooth-Extraction-Cost-Toronto-Dentist-Toronto-Downtown-Dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Tooth-Extraction-Cost-Toronto-Dentist-Toronto-Downtown-Dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-implants-cost-toronto/</loc>
+		<lastmod>2019-04-18T03:44:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-implant-cost-toronto-dentist-downtown-dentistry.jpg</image:loc>
+			<image:title><![CDATA[dental-implant-cost-toronto-dentist-downtown-dentistry]]></image:title>
+			<image:caption><![CDATA[dental-implant-cost-toronto-dentist-downtown-dentistry]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-implant-cost-toronto-dentist-downtown-dentistry.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/benefits-invisalign-treatment/</loc>
+		<lastmod>2019-04-18T03:45:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign-toronto.jpg</image:loc>
+			<image:title><![CDATA[invisalign-toronto]]></image:title>
+			<image:caption><![CDATA[invisalign-toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/procedure-cost-advantages-accelerated-orthodontics-toronto/</loc>
+		<lastmod>2019-04-18T03:46:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Accelerated-Orthodontics-Toronto.jpg</image:loc>
+			<image:title><![CDATA[Accelerated-Orthodontics-Toronto]]></image:title>
+			<image:caption><![CDATA[Accelerated-Orthodontics-Toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Accelerated-Orthodontics-Toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/affordable-cosmetic-dentistry-toronto/</loc>
+		<lastmod>2019-04-18T03:47:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth-whitening.jpg</image:loc>
+			<image:title><![CDATA[teeth-whitening]]></image:title>
+			<image:caption><![CDATA[teeth-whitening]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth-whitening.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/right-type-conventional-braces-toronto/</loc>
+		<lastmod>2019-04-18T03:49:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/conventional-braces-Toronto.jpg</image:loc>
+			<image:title><![CDATA[conventional-braces-Toronto]]></image:title>
+			<image:caption><![CDATA[conventional-braces-Toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/conventional-braces-Toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/low-cost-general-dentistry-services-toronto/</loc>
+		<lastmod>2019-04-18T03:51:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dentist-with-patient_SYOsBfRSi-1.jpg</image:loc>
+			<image:title><![CDATA[dentist-with-patient_SYOsBfRSi]]></image:title>
+			<image:caption><![CDATA[dentist-with-patient_SYOsBfRSi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dentist-with-patient_SYOsBfRSi-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/stop-worrying-misalignment-teeth-get-crowded-teeth-toronto-problem-crowded-teeth-also-known-malocclusion-teeth-problem-related-misalignm/</loc>
+		<lastmod>2019-04-18T03:53:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign-toronto.jpg</image:loc>
+			<image:title><![CDATA[invisalign-toronto]]></image:title>
+			<image:caption><![CDATA[invisalign-toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/best-children-dental-services-toronto/</loc>
+		<lastmod>2019-04-18T03:53:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/The-Best-Children%E2%80%99s-Dental-Services-In-Toronto.png</image:loc>
+			<image:title><![CDATA[The Best Children’s Dental Services In Toronto]]></image:title>
+			<image:caption><![CDATA[The Best Children’s Dental Services In Toronto]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/paybacks-dental-implants-toronto/</loc>
+		<lastmod>2019-04-18T03:55:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Implant-e1490708742270-1.jpg</image:loc>
+			<image:title><![CDATA[Dental implant]]></image:title>
+			<image:caption><![CDATA[Dental implant]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Implant-e1490708742270.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/find-dentist-downtown-toronto/</loc>
+		<lastmod>2019-04-18T03:56:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/team-picc.jpg</image:loc>
+			<image:title><![CDATA[team-picc]]></image:title>
+			<image:caption><![CDATA[team-picc]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/team-picc.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/looking-treatment-gapped-teeth-toronto/</loc>
+		<lastmod>2019-04-18T03:57:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Gapped-teeth-toronto.jpg</image:loc>
+			<image:title><![CDATA[Gapped-teeth-toronto]]></image:title>
+			<image:caption><![CDATA[Gapped-teeth-toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Gapped-teeth-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/get-inside-braces-toronto/</loc>
+		<lastmod>2019-04-18T03:58:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/inside-braces-toronto.jpg</image:loc>
+			<image:title><![CDATA[inside-braces-toronto]]></image:title>
+			<image:caption><![CDATA[inside-braces-toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/inside-braces-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/multipart-treatment-nitrous-oxide-sedation-toronto/</loc>
+		<lastmod>2019-04-18T03:59:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/nitrous-oxide-sedation-toronto.jpg</image:loc>
+			<image:title><![CDATA[nitrous-oxide-sedation-toronto]]></image:title>
+			<image:caption><![CDATA[nitrous-oxide-sedation-toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/nitrous-oxide-sedation-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/important-things-know-along-sedation-definition-toronto/</loc>
+		<lastmod>2019-04-18T03:59:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/sedation-definition-Toronto.jpg</image:loc>
+			<image:title><![CDATA[sedation-definition-Toronto]]></image:title>
+			<image:caption><![CDATA[sedation-definition-Toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/sedation-definition-Toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/signs-gum-disease-toronto/</loc>
+		<lastmod>2019-04-18T04:00:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-implants.jpg</image:loc>
+			<image:title><![CDATA[dental-implants]]></image:title>
+			<image:caption><![CDATA[dental-implants]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-implants.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-fillings-toronto/</loc>
+		<lastmod>2019-04-18T04:01:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-fillings-toronto.jpg</image:loc>
+			<image:title><![CDATA[dental-fillings-toronto]]></image:title>
+			<image:caption><![CDATA[dental-fillings-toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-fillings-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/gum-graft-healing-toronto/</loc>
+		<lastmod>2019-04-18T04:02:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/gum-graft-healing-toronto.jpg</image:loc>
+			<image:title><![CDATA[gum-graft-healing-toronto]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/gum-graft-healing-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/invisalign-treatment-toronto/</loc>
+		<lastmod>2019-04-18T04:05:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign-treatment-toronto-1.jpg</image:loc>
+			<image:title><![CDATA[invisalign-treatment-toronto]]></image:title>
+			<image:caption><![CDATA[invisalign-treatment-toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign-treatment-toronto-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/halitosis-treatment-toronto/</loc>
+		<lastmod>2019-04-18T04:06:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/halitosis-treatment-Toronto.jpg</image:loc>
+			<image:title><![CDATA[halitosis-treatment-Toronto]]></image:title>
+			<image:caption><![CDATA[halitosis-treatment-Toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/halitosis-treatment-Toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/things-know-wisdom-tooth-extraction-toronto/</loc>
+		<lastmod>2019-04-18T04:08:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/pm-0216-med-img_3032-338.jpg</image:loc>
+			<image:title><![CDATA[pm-0216-med-img_3032-338]]></image:title>
+			<image:caption><![CDATA[wisdom tooth]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/pm-0216-med-img_3032-338.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/routine-dental-check-up-toronto/</loc>
+		<lastmod>2019-04-18T04:09:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Routine-dental-check-up-Toronto-.jpg</image:loc>
+			<image:title><![CDATA[Routine-dental-check-up-Toronto-]]></image:title>
+			<image:caption><![CDATA[Routine-dental-check-up-Toronto-]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Routine-dental-check-up-Toronto-.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/toronto-invisalign-before-and-after/</loc>
+		<lastmod>2019-04-18T04:10:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign-treatment-toronto-1.jpg</image:loc>
+			<image:title><![CDATA[invisalign-treatment-toronto]]></image:title>
+			<image:caption><![CDATA[invisalign-treatment-toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisalign-treatment-toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/treatment-acute-sleep-apnea-toronto/</loc>
+		<lastmod>2019-04-18T04:11:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Acute-Sleep-Apnea-Toronto.jpg</image:loc>
+			<image:title><![CDATA[Acute-Sleep-Apnea-Toronto]]></image:title>
+			<image:caption><![CDATA[Acute-Sleep-Apnea-Toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Acute-Sleep-Apnea-Toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/laser-dental-treatment-toronto/</loc>
+		<lastmod>2019-04-18T04:12:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Laser-dental-treatment-in-Toronto.jpg</image:loc>
+			<image:title><![CDATA[Laser-dental-treatment-in-Toronto]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Laser-dental-treatment-in-Toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/all-about-porcelain-veneers/</loc>
+		<lastmod>2019-04-18T04:12:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth-2414909_960_720.jpg</image:loc>
+			<image:title><![CDATA[tooth-2414909_960_720]]></image:title>
+			<image:caption><![CDATA[tooth-2414909_960_720]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth-2414909_960_720-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/teeth-whitening-toronto/</loc>
+		<lastmod>2019-04-18T04:13:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth-whitening-Toronto.jpg</image:loc>
+			<image:title><![CDATA[teeth-whitening-Toronto]]></image:title>
+			<image:caption><![CDATA[teeth-whitening-Toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth-whitening-Toronto.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/digital-x-ray-toronto/</loc>
+		<lastmod>2019-04-18T04:14:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/xray-x-ray-2764828_1280.jpg</image:loc>
+			<image:title><![CDATA[xray-x-ray-2764828_1280]]></image:title>
+			<image:caption><![CDATA[xray-x-ray-2764828_1280]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/xray-x-ray-2764828_1280.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/snoring-problem-toronto/</loc>
+		<lastmod>2019-04-18T04:15:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Toronto-Snoring-Problem-1.jpg</image:loc>
+			<image:title><![CDATA[Toronto-Snoring-Problem-1]]></image:title>
+			<image:caption><![CDATA[Toronto-Snoring-Problem-1]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Toronto-Snoring-Problem-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/alloderm-gum-grafting/</loc>
+		<lastmod>2019-04-18T04:16:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-2036945_960_720.png</image:loc>
+			<image:title><![CDATA[dental-2036945_960_720]]></image:title>
+			<image:caption><![CDATA[dental-2036945_960_720]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dental-2036945_960_720.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/lumineers-teeth/</loc>
+		<lastmod>2019-04-18T04:16:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth-2414909_960_720.jpg</image:loc>
+			<image:title><![CDATA[tooth-2414909_960_720]]></image:title>
+			<image:caption><![CDATA[tooth-2414909_960_720]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth-2414909_960_720.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/braces-invisalign-treatment-toronto-begins-with-orthodontic-orthopedic-screening/</loc>
+		<lastmod>2019-04-18T04:17:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/open-bite-caused-by-thumb-sucking-on-child-illustration.jpg</image:loc>
+			<image:title><![CDATA[open-bite-caused-by-thumb-sucking-on-child-illustration]]></image:title>
+			<image:caption><![CDATA[open-bite-caused-by-thumb-sucking-on-child-illustration]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/open-bite-caused-by-thumb-sucking-on-child-illustration.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dental-extraction-toronto-healing-process/</loc>
+		<lastmod>2019-04-18T04:17:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/pm-0216-med-img_5669-806.jpg</image:loc>
+			<image:title><![CDATA[pm-0216-med-img_5669-806]]></image:title>
+			<image:caption><![CDATA[pm-0216-med-img_5669-806]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/pm-0216-med-img_5669-806.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/find-best-toronto-dentist/</loc>
+		<lastmod>2019-04-18T04:18:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dentist-with-patient_SYOsBfRSi.jpg</image:loc>
+			<image:title><![CDATA[dentist-with-patient_SYOsBfRSi]]></image:title>
+			<image:caption><![CDATA[dentist-with-patient_SYOsBfRSi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dentist-with-patient_SYOsBfRSi.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/find-chinese-dentist-toronto/</loc>
+		<lastmod>2019-04-18T04:19:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dent_nw.jpg</image:loc>
+			<image:title><![CDATA[dent_nw]]></image:title>
+			<image:caption><![CDATA[dent_nw]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dent_nw.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/gum-disease-dentists-periodontitis/</loc>
+		<lastmod>2019-04-18T04:19:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/pm-0216-med-img_9986-738.jpg</image:loc>
+			<image:title><![CDATA[pm-0216-med-img_9986-738]]></image:title>
+			<image:caption><![CDATA[pm-0216-med-img_9986-738]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/pm-0216-med-img_9986-738.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/gum-infection-treatment-options-toronto/</loc>
+		<lastmod>2019-04-18T04:20:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/treatment.jpg</image:loc>
+			<image:title><![CDATA[treatment]]></image:title>
+			<image:caption><![CDATA[treatment]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/treatment.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/tooth-extraction-types-respective-costs/</loc>
+		<lastmod>2019-04-18T04:22:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth.jpg</image:loc>
+			<image:title><![CDATA[tooth]]></image:title>
+			<image:caption><![CDATA[tooth]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/tooth-replacement-options-toronto/</loc>
+		<lastmod>2019-04-18T04:23:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth1-2.jpg</image:loc>
+			<image:title><![CDATA[tooth1-2]]></image:title>
+			<image:caption><![CDATA[tooth]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth1-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/bring-back-perfect-smile-tooth-whitening-treatment/</loc>
+		<lastmod>2019-04-18T04:25:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth-whitening.jpg</image:loc>
+			<image:title><![CDATA[tooth whitening]]></image:title>
+			<image:caption><![CDATA[tooth whitening]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/tooth-whitening.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/common-types-oral-surgeries/</loc>
+		<lastmod>2019-04-18T04:26:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/oral-surgeries.jpg</image:loc>
+			<image:title><![CDATA[oral surgeries]]></image:title>
+			<image:caption><![CDATA[oral surgeries]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/oral-surgeries.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/important-tips-committing-cosmetic-dental-procedures/</loc>
+		<lastmod>2019-04-18T04:26:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth-checkup-at-dentists-office_HFDejDREo.jpg</image:loc>
+			<image:title><![CDATA[teeth-checkup-at-dentists-office_HFDejDREo]]></image:title>
+			<image:caption><![CDATA[teeth-checkup-at-dentists-office]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth-checkup-at-dentists-office_HFDejDREo.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/pros-cons-dental-appliances-sleep-apnea/</loc>
+		<lastmod>2019-04-18T04:28:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/proscons.jpg</image:loc>
+			<image:title><![CDATA[proscons]]></image:title>
+			<image:caption><![CDATA[proscons]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/proscons.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/oral-appliances-stop-snoring/</loc>
+		<lastmod>2019-04-18T04:28:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/sleep-apnea.jpg</image:loc>
+			<image:title><![CDATA[sleep apnea]]></image:title>
+			<image:caption><![CDATA[sleep apnea]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/sleep-apnea.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/braces-cost-worth-investment/</loc>
+		<lastmod>2019-04-18T04:29:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/braces.jpg</image:loc>
 			<image:title><![CDATA[braces]]></image:title>
 			<image:caption><![CDATA[braces]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/braces.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/braces.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/dental-bonding-london-ontario/</loc>
-		<lastmod>2019-03-21T12:12:11+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/painless-tooth-extraction-treatment/</loc>
+		<lastmod>2019-04-18T04:30:07+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Dental-Bonding-London-Ontario-Stoney-creek-Family-Dental.jpg</image:loc>
-			<image:title><![CDATA[Dental Bonding London Ontario - Stoney creek Family Dental]]></image:title>
-			<image:caption><![CDATA[Dental Bonding London Ontario - Stoney creek Family Dental]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/JM-03292016-Healthy-YAX_4005.jpg</image:loc>
+			<image:title><![CDATA[JM-03292016-Healthy-YAX_4005]]></image:title>
+			<image:caption><![CDATA[JM-03292016-Healthy-YAX_4005]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/06/Dental-Bonding-London-Ontario-Stoney-creek-Family-Dental.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/general-dentistry-london-ontario/</loc>
-		<lastmod>2019-03-21T12:12:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/05/General-Dentistry-London-Ontario-Stoney-Creek-Family-Dental.jpg</image:loc>
-			<image:title><![CDATA[General Dentistry London Ontario - Stoney Creek Family Dental]]></image:title>
-			<image:caption><![CDATA[Stoney Creek Family Dental - General Dentistry]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/05/General-Dentistry-London-Ontario-Stoney-Creek-Family-Dental.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/JM-03292016-Healthy-YAX_4005.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/dental-emergencies/</loc>
-		<lastmod>2019-03-21T12:15:16+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/gum-disease-treatment/</loc>
+		<lastmod>2019-04-18T04:31:39+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/broken.jpg</image:loc>
-			<image:title><![CDATA[broken]]></image:title>
-			<image:caption><![CDATA[broken]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/JM-03292016-Healthy-DSC_1493.jpg</image:loc>
+			<image:title><![CDATA[JM-03292016-Healthy-DSC_1493]]></image:title>
+			<image:caption><![CDATA[JM-03292016-Healthy-DSC_1493]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/broken.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/teeth-whitening-treatments/</loc>
-		<lastmod>2019-03-21T12:15:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/cosmetic-dentistry.jpg</image:loc>
-			<image:title><![CDATA[cosmetic dentistry]]></image:title>
-			<image:caption><![CDATA[cosmetic dentistry]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/cosmetic-dentistry.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/JM-03292016-Healthy-DSC_1493.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/dentists-london-ontario/</loc>
-		<lastmod>2019-03-21T12:16:18+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/frequently-asked-questions-implants/</loc>
+		<lastmod>2019-04-18T04:32:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/dentist-2530990_1280.jpg</image:loc>
-			<image:title><![CDATA[dentist-2530990_1280]]></image:title>
-			<image:caption><![CDATA[Stoney Creek Family Dental Clinic]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth_GyYZV7cd-2.jpg</image:loc>
+			<image:title><![CDATA[teeth_GyYZV7cd]]></image:title>
+			<image:caption><![CDATA[teeth_GyYZV7cd]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2018/02/dentist-2530990_1280.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://earl-bulasa.github.io/common-root-canal-therapy-fallacies/</loc>
-		<lastmod>2019-04-06T11:00:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/Stoney-root-canal-therapy.jpg</image:loc>
-			<image:title><![CDATA[root canal therapy]]></image:title>
-			<image:caption><![CDATA[root canal therapy]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/SU-Design-1553756163.jpg</image:loc>
-			<image:caption><![CDATA[root canal procedure]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/Stoney-root-canal-therapy-800x400.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth_GyYZV7cd-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/signs-that-you-need-dental-implants/</loc>
-		<lastmod>2019-04-20T11:00:21+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/pick-best-orthodontics-toronto/</loc>
+		<lastmod>2019-04-18T04:32:58+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/Stoney-Dental-Implants.jpg</image:loc>
-			<image:title><![CDATA[dental implants]]></image:title>
-			<image:caption><![CDATA[dental implants]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/kid-showing-off-his-braces_BK7klKTri.jpg</image:loc>
+			<image:title><![CDATA[kid-showing-off-his-braces_BK7klKTri]]></image:title>
+			<image:caption><![CDATA[kid-showing-off-his-braces_BK7klKTri]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/Webp.net-resizeimage.jpg</image:loc>
-			<image:caption><![CDATA[dental implants]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/Stoney-Dental-Implants-800x400.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/kid-showing-off-his-braces_BK7klKTri.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/avoid-these-when-wearing-dental-invisalign/</loc>
-		<lastmod>2019-04-13T11:00:42+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/easy-ways-find-affordable-invisalign-toronto/</loc>
+		<lastmod>2019-04-18T04:34:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/Stoney-dental-invisalign.jpg</image:loc>
-			<image:title><![CDATA[Dental Invisalign]]></image:title>
-			<image:caption><![CDATA[Dental Invisalign]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Affordable-Invisalign-in-Toronto.png</image:loc>
+			<image:title><![CDATA[Affordable-Invisalign-in-Toronto]]></image:title>
+			<image:caption><![CDATA[Affordable-Invisalign-in-Toronto]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/Dental-hygiene.jpg</image:loc>
-			<image:caption><![CDATA[Proper Oral Care]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/Stoney-dental-invisalign-800x400.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Affordable-Invisalign-in-Toronto.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/ceramic-dental-braces-benefits/</loc>
-		<lastmod>2019-04-09T12:16:21+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/dental-implant-cost-toronto/</loc>
+		<lastmod>2019-04-18T04:34:55+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/ceramic-dental-braces-procedure.jpg</image:loc>
-			<image:title><![CDATA[ceramic dental braces procedure]]></image:title>
-			<image:caption><![CDATA[ceramic dental braces procedure]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Implant-e1490708742270.jpg</image:loc>
+			<image:title><![CDATA[Dental implant]]></image:title>
+			<image:caption><![CDATA[Dental implant]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/teeth-with-braces.jpg</image:loc>
-			<image:caption><![CDATA[teeth with braces]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/02/ceramic-dental-braces-procedure-800x400.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Implant-e1490708742270.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://earl-bulasa.github.io/foods-to-eat-after-tooth-extraction/</loc>
-		<lastmod>2019-04-27T11:00:40+00:00</lastmod>
+		<loc>https://earl-bulasa.github.io/find-best-cosmetic-dental-treatment-clinic-toronto/</loc>
+		<lastmod>2019-04-18T04:35:41+00:00</lastmod>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/04/SU-Design-1555315119.jpg</image:loc>
-			<image:title><![CDATA[tooth extraction]]></image:title>
-			<image:caption><![CDATA[tooth extraction]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-Cosmetic-Dental-Treatment-Clinic-in-Toronto.png</image:loc>
+			<image:title><![CDATA[Best-Cosmetic-Dental-Treatment-Clinic-in-Toronto]]></image:title>
+			<image:caption><![CDATA[Best-Cosmetic-Dental-Treatment-Clinic-in-Toronto]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/03/SU-Design-1553859495.jpg</image:loc>
-			<image:caption><![CDATA[broth]]></image:caption>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-Cosmetic-Dental-Treatment-Clinic-in-Toronto.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/find-best-general-dentist-toronto/</loc>
+		<lastmod>2019-04-18T04:36:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-General-Dentist-in-Toronto.png</image:loc>
+			<image:title><![CDATA[Best-General-Dentist-in-Toronto]]></image:title>
+			<image:caption><![CDATA[Best-General-Dentist-in-Toronto]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/3/2019/04/SU-Design-1555315119-800x400.jpg</image:loc>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-General-Dentist-in-Toronto.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/get-best-dental-implant-treatment-toronto/</loc>
+		<lastmod>2019-04-18T04:36:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-Dental-Implant-Treatment-in-Toronto.png</image:loc>
+			<image:title><![CDATA[Best-Dental-Implant-Treatment-in-Toronto]]></image:title>
+			<image:caption><![CDATA[Best-Dental-Implant-Treatment-in-Toronto]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Best-Dental-Implant-Treatment-in-Toronto.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/treat-gums-using-alloderm-gum-grafting/</loc>
+		<lastmod>2019-04-18T04:37:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Gums-using-Alloderm-Gum-Grafting.png</image:loc>
+			<image:title><![CDATA[Gums-using-Alloderm-Gum-Grafting]]></image:title>
+			<image:caption><![CDATA[Gums-using-Alloderm-Gum-Grafting]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Gums-using-Alloderm-Gum-Grafting.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/best-toronto-sedation-dentistry-kids-toronto/</loc>
+		<lastmod>2019-04-18T04:38:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Toronto-Sedation-Dentistry-for-Kids-in-Toronto-700x280-1.png</image:loc>
+			<image:title><![CDATA[Toronto-Sedation-Dentistry-for-Kids-in-Toronto-700x280]]></image:title>
+			<image:caption><![CDATA[Toronto-Sedation-Dentistry-for-Kids-in-Toronto-700x280]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Toronto-Sedation-Dentistry-for-Kids-in-Toronto-700x280.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/procedure-invisalign-downtown-toronto/</loc>
+		<lastmod>2019-04-18T04:41:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Invisalign.jpg</image:loc>
+			<image:title><![CDATA[Invisalign]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Invisalign.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/typical-price-range-gum-grafting/</loc>
+		<lastmod>2019-04-18T04:43:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/gum-grafting-2.jpg</image:loc>
+			<image:title><![CDATA[gum-grafting (2)]]></image:title>
+			<image:caption><![CDATA[gum-grafting]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/gum-grafting-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/best-pediatric-dentist-toronto/</loc>
+		<lastmod>2019-04-18T04:46:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/PEDIATRIC-DENTIST.png</image:loc>
+			<image:title><![CDATA[PEDIATRIC DENTIST]]></image:title>
+			<image:caption><![CDATA[PEDIATRIC DENTIST]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/PEDIATRIC-DENTIST.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/rcdso-elects-first-female-dentist-representative-central-toronto/</loc>
+		<lastmod>2019-04-18T04:48:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/invisalign-and-veneers-better-treatment-for-straighter-teeth/</loc>
+		<lastmod>2019-04-18T04:50:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Straighter-Teeth-Invisalign-or-Veeners-700x387.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/finding-a-professional-chinese-dentist-in-downtown/</loc>
+		<lastmod>2019-04-18T04:52:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/team-pic.jpg</image:loc>
+			<image:title><![CDATA[team-pic]]></image:title>
+			<image:caption><![CDATA[team]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/team-pic.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/best-of-toronto-discovery-district/</loc>
+		<lastmod>2019-04-18T04:56:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/toronto-discovery-district-shopping-centre.png</image:loc>
+			<image:title><![CDATA[toronto-discovery-district-shopping-centre]]></image:title>
+			<image:caption><![CDATA[toronto-discovery-district-shopping-centre]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/toronto-discovery-district-shopping-centre.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/04/toronto-discovery-district-shopping-centre.png</image:loc>
+			<image:caption><![CDATA[toronto discovery district shopping centre]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dentists-near-eaton-centre-at-yonge-and-dundas/</loc>
+		<lastmod>2019-04-18T04:59:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Toronto-Eaton-Centre.jpg</image:loc>
+			<image:title><![CDATA[Toronto-Eaton-Centre]]></image:title>
+			<image:caption><![CDATA[Toronto-Eaton-Centre]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Toronto-Eaton-Centre.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/Toronto-Eaton-Centre.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/holistic-dentist-approach/</loc>
+		<lastmod>2019-04-18T05:00:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/holistic-dentist.jpg</image:loc>
+			<image:title><![CDATA[holistic-dentist]]></image:title>
+			<image:caption><![CDATA[holistic dentist]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/holistic-dentist-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/find-experienced-dentists-toronto/</loc>
+		<lastmod>2019-04-18T05:02:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/find-a-dentist.jpg</image:loc>
+			<image:title><![CDATA[find-a-dentist]]></image:title>
+			<image:caption><![CDATA[dentist]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/find-a-dentist.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/dr-amelia-chan-ontario-dental-association/</loc>
+		<lastmod>2019-04-18T05:03:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/finding-a-dentist-for-business-professional/</loc>
+		<lastmod>2019-04-18T05:06:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dentist-for-business-professional.jpg</image:loc>
+			<image:title><![CDATA[dentist-for-business-professional]]></image:title>
+			<image:caption><![CDATA[professional]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/dentist-for-business-professional.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/convenience-of-invisible-braces/</loc>
+		<lastmod>2019-04-18T05:08:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisible-braces1.jpg</image:loc>
+			<image:title><![CDATA[invisible-braces1]]></image:title>
+			<image:caption><![CDATA[invisible braces]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/invisible-braces1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/better-oral-health-7-natural-health-tips/</loc>
+		<lastmod>2019-04-18T05:10:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/better-oral-health-700x435.jpg</image:loc>
+			<image:title><![CDATA[better-oral-health-700x435]]></image:title>
+			<image:caption><![CDATA[oral health]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/better-oral-health-700x435.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/how-fast-is-a-teeth-whitening-procedure/</loc>
+		<lastmod>2019-04-18T05:13:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth-whitening-1024x732.jpg</image:loc>
+			<image:title><![CDATA[teeth-whitening-1024x732]]></image:title>
+			<image:caption><![CDATA[whitening]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/teeth-whitening-1024x732.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/fitting-the-dentist-appointment-in-your-busy-schedule/</loc>
+		<lastmod>2019-04-18T05:14:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/fitting-busy-schedule.jpg</image:loc>
+			<image:title><![CDATA[fitting-busy-schedule]]></image:title>
+			<image:caption><![CDATA[appointment]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/fitting-busy-schedule.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://earl-bulasa.github.io/downtown-guide/</loc>
+		<lastmod>2019-04-18T05:15:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/beautiful-smile.jpg</image:loc>
+			<image:title><![CDATA[beautiful smile]]></image:title>
+			<image:caption><![CDATA[smile]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://earl-bulasa.github.io/wp-content/uploads/sites/2/2019/03/beautiful-smile.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
